@@ -1,0 +1,15 @@
+{
+  "name": "cooperation-invariants",
+  "version": "0.1.0",
+  "description": "Cooperation invariants tracking and validation system",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "example": "tsx src/examples/basic-usage.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^22.19.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}
