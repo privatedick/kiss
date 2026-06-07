@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "tsc",
-    "example": "tsx src/examples/basic-usage.ts"
+    "example": "tsx src/examples/basic-usage.ts",
+    "measure": "tsx src/examples/measure-success.ts"
   },
   "devDependencies": {
     "@types/node": "^22.19.0",
